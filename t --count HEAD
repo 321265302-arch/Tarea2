@@ -1,0 +1,23 @@
+[33mcommit d58c53b4f7ba4a7688cefc2319a4a9b3b81df325[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: 321265302-arch <321265302@pcpuma.acatlan.unam.mx>
+Date:   Thu Mar 12 23:15:16 2026 +0000
+
+    Corregido color primario y z-index del header
+
+[33mcommit d65197b03eb836cf41e2fb056adcdfa3942fbc07[m
+Author: 321265302-arch <321265302@pcpuma.acatlan.unam.mx>
+Date:   Thu Mar 12 20:48:55 2026 +0000
+
+    Arreglando la clase faltante en el botón y enlace de contacto incorrecto
+
+[33mcommit 9401f82291b81c8c454cb22b065cb181b5537bb3[m
+Author: diegoromemora27-creator <diegoromemora27@gmail.com>
+Date:   Sat Mar 7 01:16:45 2026 +0000
+
+    adding all errors
+
+[33mcommit baf08420744dd0b4c26fe83c91a18fe72ac948ef[m
+Author: diegoromemora27-creator <diegoromemora27@gmail.com>
+Date:   Fri Mar 6 19:09:03 2026 -0600
+
+    Initial commit
